@@ -1,0 +1,71 @@
+﻿  main.cpp
+  ofApp.cpp
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+  ETF.cpp
+  fdog.cpp
+  Calibration.cpp
+  ContourFinder.cpp
+  Distance.cpp
+  Flow.cpp
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\distance.cpp(30): warning C4700: uninitialized local variable 'bestScore' used
+  Helpers.cpp
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\helpers.cpp(78): warning C4018: '<': signed/unsigned mismatch
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\helpers.cpp(101): warning C4018: '>': signed/unsigned mismatch
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\helpers.cpp(107): warning C4018: '>': signed/unsigned mismatch
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\helpers.cpp(115): warning C4018: '<': signed/unsigned mismatch
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\ContourFinder.cpp)
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\Calibration.cpp)
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\Flow.cpp)
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\calibration.cpp(478): warning C4018: '<': signed/unsigned mismatch
+  Kalman.cpp
+  ObjectFinder.cpp
+  RunningBackground.cpp
+  Tracker.cpp
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\Tracker.cpp)
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\Kalman.cpp)
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\ObjectFinder.cpp)
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\objectfinder.cpp(57): warning C4018: '<': signed/unsigned mismatch
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\objectfinder.cpp(85): warning C4018: '<': signed/unsigned mismatch
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\wrappers.h(258): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\ObjectFinder.cpp)
+  h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\objectfinder.cpp(37): note: see reference to function template instantiation 'void ofxCv::equalizeHist<cv::Mat,cv::Mat>(const S &,D &)' being compiled
+          with
+          [
+              S=cv::Mat,
+              D=cv::Mat
+          ]
+  Utilities.cpp
+  Wrappers.cpp
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\utilities.cpp(46): warning C4018: '<': signed/unsigned mismatch
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\utilities.cpp(55): warning C4018: '<': signed/unsigned mismatch
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxcv\libs\ofxcv\src\utilities.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  ofxBaseGui.cpp
+  ofxButton.cpp
+  ofxColorPicker.cpp
+  ofxGuiGroup.cpp
+  ofxInputField.cpp
+  ofxLabel.cpp
+  ofxPanel.cpp
+  ofxSlider.cpp
+h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(276): warning C4018: '<': signed/unsigned mismatch
+  h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(265): note: while compiling class template member function 'void ofxInputField<float>::moveCursor(int)'
+  h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(368): note: see reference to function template instantiation 'void ofxInputField<float>::moveCursor(int)' being compiled
+  h:\windows\desktop\of_v0.10.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(800): note: see reference to class template instantiation 'ofxInputField<float>' being compiled
+  ofxSliderGroup.cpp
+  ofxToggle.cpp
+  ofxCvColorImage.cpp
+  ofxCvContourFinder.cpp
+  ofxCvFloatImage.cpp
+  ofxCvGrayscaleImage.cpp
+  ofxCvHaarFinder.cpp
+  ofxCvImage.cpp
+  ofxCvShortImage.cpp
+     Creating library bin\mySketch_debug.lib and object bin\mySketch_debug.exp
+  mySketch.vcxproj -> H:\Windows\Desktop\of_v0.10.0_vs2017_release\apps\myApps\mySketch\bin\mySketch_debug.exe
+  
+  	                   2	H:\Windows\Desktop\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 5647872	H:\Windows\Desktop\of_v0.10.0_vs2017_release\apps\myApps\mySketch\bin\FreeImage.dll
+  
+  	                   1	H:\Windows\Desktop\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	H:\Windows\Desktop\of_v0.10.0_vs2017_release\apps\myApps\mySketch\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	H:\Windows\Desktop\of_v0.10.0_vs2017_release\apps\myApps\mySketch\bin\fmodexL.dll
